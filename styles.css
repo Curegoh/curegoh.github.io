@@ -1,0 +1,17 @@
+p {
+    font-family: "Comic Sans MS";
+}
+
+aside {
+    width: 20%;
+    padding-left: 15px;
+    margin-left: 15px;
+    float: right;
+    font-style: italic;
+    background-color: lightgray;
+  }
+
+img.responsive {
+    width: 10vw;  // 50% of the viewport width
+    height: auto; // Adjusts automatically to maintain the aspect ratio
+}
